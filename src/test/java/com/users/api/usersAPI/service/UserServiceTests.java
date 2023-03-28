@@ -1,6 +1,7 @@
 package com.users.api.usersAPI.service;
 
 
+import com.users.api.usersAPI.exception.UserNotFound;
 import com.users.api.usersAPI.model.Role;
 import com.users.api.usersAPI.model.User;
 import com.users.api.usersAPI.repository.UserRepository;
